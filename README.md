@@ -1,1 +1,0 @@
-# adv-fullstack-dsna-challenges
